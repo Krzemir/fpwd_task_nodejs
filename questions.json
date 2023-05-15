@@ -1,0 +1,66 @@
+[
+	{
+		"id": "36214753-cfee-4a08-b866-50e685485cc3",
+		"author": "Maria Doe",
+		"summary": "What is the best place to die?",
+		"answers": [
+			{
+				"id": "90c25439-6984-4e7e-b5a3-4bbf7fe8b178",
+				"author": "Joe Doe",
+				"summary": "Abracadabra"
+			}
+		]
+	},
+	{
+		"id": "bd70fb7c-9da5-4322-8974-2e3a5e881a16",
+		"author": "John Doe",
+		"summary": "What is the best place to live?",
+		"answers": [
+			{
+				"id": "a76380b3-e3dc-46eb-ba8b-504589c06a38",
+				"author": "Martin Eden",
+				"summary": "Hell"
+			},
+			{
+				"id": "71d6bc1e-df05-412a-af94-aa26ffe310a7",
+				"author": "Martin Eden",
+				"summary": "Hell"
+			}
+		]
+	},
+	{
+		"id": "50f9e662-fa0e-4ec7-b53b-7845e8f821c3",
+		"author": "John Stockton",
+		"summary": "What is the shape of the Earth?",
+		"answers": [
+			{
+				"id": "ce7bddfb-0544-4b14-92d8-188b03c41ee4",
+				"author": "Brian McKenzie",
+				"summary": "The Earth is flat."
+			},
+			{
+				"id": "d498c0a3-5be2-4354-a3bc-78673aca0f31",
+				"author": "Dr Strange",
+				"summary": "It is egg-shaped."
+			}
+		]
+	},
+	{
+		"id": "00f3dd43-ae53-4430-8da1-b722e034c73d",
+		"author": "Sarah Nickle",
+		"summary": "Who let the dogs out?",
+		"answers": []
+	},
+	{
+		"id": "bd70fb7c-9da5-4322-8974-2e3a5e881a16",
+		"author": "John Doe",
+		"summary": "What is the best place to live?",
+		"answers": []
+	},
+	{
+		"id": "36214753-cfee-4a08-b866-50e685485cc3",
+		"author": "Maria Doe",
+		"summary": "What is the best place to die?",
+		"answers": []
+	}
+]
